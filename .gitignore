@@ -26,6 +26,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # Xcode
 .DS_Store
@@ -40,3 +41,5 @@
 xcuserdata/
 build/
 DerivedData/
+=======
+>>>>>>> 9e41cea28e76f2897b36ae1428f8c5a9b3cc1e3c
